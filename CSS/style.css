@@ -1,0 +1,31 @@
+body {
+    background-color: darkolivegreen;
+    display: inline ;
+}
+
+header {
+    border: dotted;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    
+}
+
+div {
+
+    width: 200px;
+    height: 100px;
+    border: double 4px;
+    display: inlines;
+    margin-top: 2rem;
+    padding: 5em;
+    
+    
+}
+
+.subt {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: bisque;
+}
+
